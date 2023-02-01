@@ -38,8 +38,9 @@ Attention: to predict some indicator, you need to create the database before
 HOW TO EXECUTE:
 
 Database creation:
-    1 - Configure the parameters in ConfigCreateDatabase.py
-    2 - Run ApplicationCreateDatabase.py
+    1 - unzip the zip file: files/WPP2022_TotalPopulationBySex.zip
+    2 - Configure the parameters in ConfigCreateDatabase.py
+    3 - Run ApplicationCreateDatabase.py
 
 Prediction:
     1 - Configure the parameters in ConfigPrediction.py
