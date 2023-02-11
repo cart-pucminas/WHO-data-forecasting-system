@@ -1,5 +1,5 @@
-# WHO-data-forecasting-system
+# WHO Data Prediction System
 
-AUTOMATIC PARAMETRIZABLE SYSTEM FOR DATA PREDICTION FROM WORLD HEALTH ORGANIZATION
+Automated and Parameterizable System for World Health Organization Data Prediction
 
-This work aims to develop a parametrizable system with autonomous decisions capable of collecting and analyzing many indicators provided by the World Health Organization. After these analysis steps, the system applies Machine Learning algorithms for future predictions of different indicators to process a lot of information autonomously, finding different knowledge discovery scenarios.
+This work aims to develop a parameterizable system with autonomous decisions capable of collecting and analyzing many indicators provided by the World Health Organization. After these analysis steps, the system applies Machine Learning algorithms for future predictions of different indicators to process a lot of information autonomously, finding different knowledge discovery scenarios.
