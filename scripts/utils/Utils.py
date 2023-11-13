@@ -39,5 +39,5 @@ def createGroups(datasToSendToPrediction):
             resultDatabase = resultDatabase.append(saida, sort=False)
             start = start + step
             end = end + step
-            i = i + 1
+        i = i + 1
     return resultDatabase
